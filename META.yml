@@ -33,6 +33,6 @@ resources:
   bugtracker: https://github.com/stevecaldwell77/MooseX-Storage-IO-CHI/issues
   homepage: https://github.com/stevecaldwell77/MooseX-Storage-IO-CHI
   repository: https://github.com/stevecaldwell77/MooseX-Storage-IO-CHI.git
-version: '0.03'
+version: '0.04'
 x_contributors:
   - 'Stephen Caldwell <steve@campusexplorer.com>'
