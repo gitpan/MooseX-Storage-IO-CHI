@@ -3,7 +3,6 @@ abstract: 'Store and retrieve Moose objects to a cache, via L<CHI>.'
 author:
   - 'Steve Caldwell <scaldwell@gmail.com>'
 build_requires:
-  Dist::Milla: '0'
   Test::Most: '0'
   Test::Pod: '0'
 configure_requires:
@@ -34,6 +33,6 @@ resources:
   bugtracker: https://github.com/stevecaldwell77/MooseX-Storage-IO-CHI/issues
   homepage: https://github.com/stevecaldwell77/MooseX-Storage-IO-CHI
   repository: https://github.com/stevecaldwell77/MooseX-Storage-IO-CHI.git
-version: '0.02'
+version: '0.03'
 x_contributors:
   - 'Stephen Caldwell <steve@campusexplorer.com>'

@@ -6,11 +6,7 @@ requires 'MooseX::Role::Parameterized';
 requires 'MooseX::Storage';
 requires 'namespace::autoclean';
 
-on test => sub {
+on 'test' => sub {
     requires 'Test::Most';
-};
-
-on build => sub {
-    requires 'Dist::Milla';
     requires 'Test::Pod';
 };

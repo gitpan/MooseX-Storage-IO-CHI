@@ -1,5 +1,8 @@
 Revision history for MooseX-Storage-IO-CHI
 
+0.03  2015-01-05 10:48:01 PST
+        - cleanup of some Dist::Milla stuff
+
 0.02  2015-01-05 10:05:27 PST
         - fix some missing dependencies
 
